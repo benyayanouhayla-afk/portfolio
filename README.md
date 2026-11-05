@@ -71,4 +71,4 @@ src/
 Étudiante en développement digital, option Full Stack, CMC
 
 - GitHub : 
-- Email : [email]
+- Email : benyayanouhaila@gmail.com
